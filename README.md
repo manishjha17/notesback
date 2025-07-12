@@ -40,9 +40,5 @@ Uses **EJS** templates and **Node’s fs module** for file operations.
 
 
 
-<img width="1338" height="521" alt="image" src="https://github.com/user-attachments/assets/58331ece-5ebf-4fe3-a382-be320708f38e" />
-
-
-
 
 
